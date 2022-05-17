@@ -1,0 +1,6 @@
+C:\Users\percy\source\repos\examen 2\intento final\Singleton.Core\bin\Debug\Singleton.Core.dll
+C:\Users\percy\source\repos\examen 2\intento final\Singleton.Core\bin\Debug\Singleton.Core.pdb
+C:\Users\percy\source\repos\examen 2\intento final\Singleton.Core\obj\Debug\Singleton.Core.csproj.AssemblyReference.cache
+C:\Users\percy\source\repos\examen 2\intento final\Singleton.Core\obj\Debug\Singleton.Core.csproj.CoreCompileInputs.cache
+C:\Users\percy\source\repos\examen 2\intento final\Singleton.Core\obj\Debug\Singleton.Core.dll
+C:\Users\percy\source\repos\examen 2\intento final\Singleton.Core\obj\Debug\Singleton.Core.pdb
